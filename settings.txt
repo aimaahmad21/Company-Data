@@ -1,0 +1,4 @@
+root: C:\Users\dayics\Desktop\marketverse 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
